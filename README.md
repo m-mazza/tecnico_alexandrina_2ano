@@ -1,1 +1,1 @@
-# tecnico_alexandrina_2ano
+# Conteúdo para o ensino técnico estadual - 2º Ano
