@@ -87,36 +87,3 @@ ___________________________________________________________________________
 ___________________________________________________________________________
 ```
 
----
-
-## Parte 4 — Desafio extra (opcional)
-
-Acesse o site **WebPageTest** (https://www.webpagetest.org) e teste o mesmo site que você analisou na Parte 1.
-
-- Escolha a localização **Brazil** e a conexão **4G**.
-- Após o teste, identifique **dois recursos** que demoraram mais para carregar no Waterfall Chart.
-- Anote o nome desses recursos e o tempo de carregamento deles:
-
-| Recurso | Tempo de carregamento |
-|---|---|
-| | |
-| | |
-
-O que você faria para reduzir o tempo de carregamento desses recursos?
-
-```
-___________________________________________________________________________
-___________________________________________________________________________
-```
-
----
-
-## Critérios de avaliação
-
-| Critério | Pontuação |
-|---|---|
-| Relatório do Lighthouse preenchido corretamente | 3,0 |
-| Identificação correta dos problemas na Parte 2 | 2,5 |
-| Reflexão escrita com clareza e coerência | 3,0 |
-| Desafio extra (opcional) | 1,5 bônus |
-| **Total** | **8,5 / 10** |
